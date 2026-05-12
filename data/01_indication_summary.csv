@@ -1,0 +1,168 @@
+indication,n_cell_lines
+Melanoma,55
+Lung Adenocarcinoma,53
+Oral Cavity Squamous Cell Carcinoma,53
+"Glioblastoma, IDH-Wildtype",50
+Colon Adenocarcinoma,48
+Pancreatic Adenocarcinoma,46
+Neuroblastoma,41
+Bladder Urothelial Carcinoma,30
+Ewing Sarcoma,28
+Small Cell Lung Cancer,25
+Osteosarcoma,25
+Esophageal Squamous Cell Carcinoma,24
+Breast Invasive Ductal Carcinoma,23
+Acute Myeloid Leukemia,23
+Hepatocellular Carcinoma,21
+Lung Squamous Cell Carcinoma,21
+Endometrial Carcinoma,20
+Intrahepatic Cholangiocarcinoma,20
+Stomach Adenocarcinoma,20
+Plasma Cell Myeloma,19
+Invasive Breast Carcinoma,19
+High-Grade Serous Ovarian Cancer,18
+Serous Ovarian Cancer,16
+"Astrocytoma, IDH-Mutant",16
+Atypical Teratoid/Rhabdoid Tumor,16
+Renal Clear Cell Carcinoma,16
+"Diffuse Large B-Cell Lymphoma, NOS",16
+"Pleural Mesothelioma, Epithelioid Type",15
+Cervical Squamous Cell Carcinoma,13
+B-Cell Acute Lymphoblastic Leukemia,13
+Rectal Adenocarcinoma,12
+Renal Cell Carcinoma,11
+"Chronic Myeloid Leukemia, BCR-ABL1+",10
+Large Cell Lung Carcinoma,10
+Esophageal Adenocarcinoma,9
+Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,8
+Alveolar Rhabdomyosarcoma,8
+Uveal Melanoma,8
+Clear Cell Ovarian Cancer,8
+T-Cell Acute Lymphoblastic Leukemia,8
+Cutaneous Melanoma,8
+Tubular Stomach Adenocarcinoma,7
+Extrahepatic Cholangiocarcinoma,7
+Anaplastic Thyroid Cancer,7
+Anaplastic Large-Cell Lymphoma ALK Positive,7
+Larynx Squamous Cell Carcinoma,7
+Endometrioid Ovarian Cancer,6
+Malignant Peripheral Nerve Sheath Tumor,6
+Head and Neck Squamous Cell Carcinoma,6
+Non-Small Cell Lung Cancer,6
+Prostate Adenocarcinoma,5
+Cutaneous Squamous Cell Carcinoma,5
+"Pleural Mesothelioma, Biphasic Type",5
+Synovial Sarcoma,5
+"Immortalized Epithelial Cells, Retinal",5
+Mucinous Ovarian Cancer,5
+"Medulloblastoma, NOS",5
+Burkitt Lymphoma,5
+Ampullary Carcinoma,5
+Embryonal Rhabdomyosarcoma,4
+Diffuse Type Stomach Adenocarcinoma,4
+Breast Invasive Lobular Carcinoma,4
+Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma,4
+Acral Melanoma,4
+"AML, NOS",4
+Hypopharynx Squamous Cell Carcinoma,4
+"Gallbladder Adenocarcinoma, NOS",4
+Dedifferentiated Liposarcoma,4
+Leiomyosarcoma,4
+Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor,4
+"Immortalized Epithelial Cells, Prostate",4
+Well-Differentiated Liposarcoma,3
+Uterine Adenosquamous Carcinoma,3
+Meningioma,3
+Hodgkin Lymphoma,3
+Choriocarcinoma,3
+"Breast Invasive Carcinoma, NOS",3
+Giant Cell Carcinoma of the Lung,3
+"Medulloblastoma, Group 3",3
+Primitive Neuroectodermal Tumor,3
+Signet Ring Cell Carcinoma of the Stomach,3
+Mantle Cell Lymphoma,3
+Small Cell Carcinoma of the Ovary,3
+Hepatoblastoma,3
+Merkel Cell Carcinoma,3
+Primary Effusion Lymphoma,3
+"Transformed cell line, B lymphoblast",2
+Acute Monoblastic/Monocytic Leukemia,2
+Breast Ductal Carcinoma In Situ,2
+Cervical Adenocarcinoma,2
+Adenosquamous Carcinoma of the Pancreas,2
+Urethral Urothelial Carcinoma,2
+Non-Hodgkin Lymphoma,2
+Splenic Marginal Zone Lymphoma,2
+Teratoma,2
+Liposarcoma,2
+Immortalized Blood,2
+Gliosarcoma,2
+Uterine Leiomyosarcoma,2
+SMARCA4-deficient undifferentiated tumor,2
+Retinoblastoma,2
+Bladder Squamous Cell Carcinoma,2
+Adult-Type Diffuse Glioma,2
+Germinal Center B-Cell Type,2
+Follicular Thyroid Cancer,2
+Gallbladder Cancer,2
+Epithelioid Sarcoma,2
+Embryonal Carcinoma,2
+Mature T and NK Neoplasms,2
+Lung Adenosquamous Carcinoma,2
+Mature B-Cell Neoplasms,2
+NUT Midline Carcinoma of the Head and Neck,2
+Mucinous Adenocarcinoma of the Colon and Rectum,2
+Adenocarcinoma of the Gastroesophageal Junction,1
+Acute Promyelocytic Leukemia,1
+Acute Leukemias of Ambiguous Lineage,1
+AML with Myelodysplasia-Related Changes,1
+Adenoid Cystic Carcinoma,1
+Activated B-cell Type,1
+Cholangiocarcinoma,1
+"Brenner Tumor, Malignant",1
+"Breast Invasive Cancer, NOS",1
+"Breast Neoplasm, NOS",1
+Adrenocortical Carcinoma,1
+Anaplastic Large-Cell Lymphoma ALK Negative,1
+"Astrocytoma, IDH-Mutant, Grade 2",1
+B-Cell Prolymphocytic Leukemia,1
+Endometrial Stromal Sarcoma,1
+Endocervical Adenocarcinoma,1
+Dedifferentiated Chondrosarcoma,1
+Extra Gonadal Germ Cell Tumor,1
+Fibroblast,1
+Fibrosarcoma,1
+Giant Cell Tumor of Bone,1
+Glassy Cell Carcinoma of the Cervix,1
+Lung Carcinoid,1
+"Head and Neck Carcinoma, Other",1
+"Hyperplasia, Prostate",1
+Immortalized Embyonic Kidney Cells,1
+Hepatocellular Carcinoma plus Intrahepatic Cholangiocarcinoma,1
+Clear Cell Sarcoma,1
+Colorectal Adenocarcinoma,1
+Dedifferentiated Chordoma,1
+Poorly Differentiated Thyroid Cancer,1
+Mixed Ovarian Carcinoma,1
+Mucoepidermoid Carcinoma,1
+Mucoepidermoid Carcinoma of the Lung,1
+Myeloid Leukemia Associated with Down Syndrome,1
+Mucosal Melanoma of the Vulva/Vagina,1
+NUT Carcinoma of the Lung,1
+Myxoid/Round-Cell Liposarcoma,1
+Mixed Germ Cell Tumor,1
+Poorly Differentiated Non-Small Cell Lung Cancer,1
+"Pleural Mesothelioma, Sarcomatoid Type",1
+Papillary Thyroid Cancer,1
+Osteoblastic Osteosarcoma,1
+Oropharynx Squamous Cell Carcinoma,1
+Papillary Renal Cell Carcinoma,1
+Mixed Cervical Carcinoma,1
+Mucinous Stomach Adenocarcinoma,1
+Sacrococcygeal teratoma,1
+"Sarcoma, NOS",1
+Renal Medullary Carcinoma,1
+Sinonasal Squamous Cell Carcinoma,1
+Squamous Cell Carcinoma of the Vulva/Vagina,1
+Uterine Clear Cell Carcinoma,1
+Yolk Sac Tumor,1
