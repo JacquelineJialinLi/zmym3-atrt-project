@@ -1,7 +1,9 @@
 # ZMYM3 as a Context-Specific Dependency in Atypical Teratoid/Rhabdoid Tumor
 
 **Authors:** Jacqueline Li and Daniel Stauber
+
 **Course:** 20.440 Final Project
+
 **Date:** Spring 2026
 
 ---
