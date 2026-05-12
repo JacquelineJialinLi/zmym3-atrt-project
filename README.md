@@ -20,7 +20,7 @@ We took a two-stage computational approach:
 
 Our findings reveal a disconnect between functional dependency and transcript-level expression, reframing ZMYM3 as a **constitutively expressed gene with context-specific functional essentiality** rather than a transcriptionally selective target.
 
-The full project write-up is available in [`docs/Li_Stauber_Final_Project.pdf`](docs/Li_Stauber_Final_Project.pdf).
+The full project write-up is available in [`docs/Li_Stauber_Final_Report.pdf`](docs/Li_Stauber_Final_Report.pdf).
 
 ---
 
