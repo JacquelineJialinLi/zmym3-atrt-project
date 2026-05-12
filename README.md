@@ -125,7 +125,7 @@ See [`data/README.md`](data/README.md) for more detailed instructions.
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/zmym3-atrt-project.git
+git clone https://github.com/JacquelineJialinLi/zmym3-atrt-project.git
 cd zmym3-atrt-project
 
 # Create a virtual environment (recommended)
