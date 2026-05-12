@@ -159,7 +159,7 @@ For each cancer indication, every gene is tested for context-specific essentiali
 |------|------------------|-------------|------------|
 | Fisher's exact | Enrichment of dependent cell lines (score ≤ −0.6) | None (exact) | 0.05 |
 | Independent t-test | Difference in mean dependency scores | Approximate normality | 0.05 |
-| Wilcoxon rank-sum | Distributional shift in scores | None (non-parametric) | 0.10 |
+| Wilcoxon rank-sum | Distributional shift in scores | None (non-parametric) | 0.05 |
 
 P-values from each test are independently corrected for multiple testing using Benjamini–Hochberg FDR. The top 10 genes per test passing the FDR threshold are retained, and the **intersection across all applicable tests** defines consensus context-specific fitness genes. Indications with fewer than 10 cell lines use only the Fisher and t-test in the consensus (Wilcoxon is dropped for power reasons).
 
